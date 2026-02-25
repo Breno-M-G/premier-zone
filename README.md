@@ -1,6 +1,11 @@
 # Premier Zone ⚽
-Shields
 Projeto back-end acadêmico desenvolvido para estudar e testar tecnologias modernas de desenvolvimento Java.
+
+<p align="center" dir="auto" style="max-width:100%;">
+    <img align="center" dir="auto" src="https://img.shields.io/badge/version-1.0-blue" width="85" style= "max-width: 100%;">
+    <img align="center" dir="auto" src="https://img.shields.io/badge/license-MIT-green" width="89" style="max-width: 100%;">
+    
+</p>
 
 **Objetivo principal:** Criar uma API REST simples que gerencia dados de uma "zona premier" (ex: times, jogadores, partidas, etc.), persistindo informações no PostgreSQL e importando dados iniciais a partir de arquivos CSV.
 
