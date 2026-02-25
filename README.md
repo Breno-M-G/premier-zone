@@ -68,6 +68,7 @@ docker run --name premier-postgres \
 mvn sprint-boot:run
 ```
 ## Estrutura de pastas
+```
 premier-zone/
 ├── src/
 │   ├── main/
@@ -84,7 +85,7 @@ premier-zone/
 │   │       └── data/            ← seus arquivos .csv aqui (opcional)
 │   └── test/
 └── pom.xml
-
+```
 ### Autor
 Breno
 Estudante / Desenvolvedor Java em aprendizado
